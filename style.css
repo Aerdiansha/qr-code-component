@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body {
+    height: 700px;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    background-color: #D5E1EF;
+}
+
+#title {
+    font-weight: 700;
+}
+
+#caption {
+    font-weight: 400;
+}
